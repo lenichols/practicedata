@@ -1,5 +1,10 @@
 {
-  "practices": [
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "data": [
     {"id": 7393773993773,
     "name": "ACME HOSPITAL",
     "location": "Jackson, MS",
@@ -84,5 +89,10 @@
     "monthly_cost": "947.07",
     "doctor": "Jonathan McCullogh",
     "Rhematology"}
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
+
+
